@@ -2,7 +2,6 @@
 
 ![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-black?style=for-the-badge&logo=oracle&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ## 📌 Project Overview
 
@@ -74,6 +73,6 @@ Designed a dimensional model (Star Schema) to support the "Delivery Satisfaction
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaiaCaroline)
 
 
-## 📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ---
