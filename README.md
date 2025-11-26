@@ -74,5 +74,14 @@ Designed a dimensional model (Star Schema) to support the "Delivery Satisfaction
 
 
 ### 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---
+##  Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
+
+**Development of a PL/SQL auditing system (CDC) for transaction tracking and dimensional data modeling**  
